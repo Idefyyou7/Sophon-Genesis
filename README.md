@@ -11,3 +11,4 @@ A harmonic simulation and memory kernel designed to explore ψ-shell emergence, 
 - `sample_data.csv`: Initial shell data.
 
 Created by Jody Brady & Neo — 2025.
+[![DOI](https://zenodo.org/badge/1049321784.svg)](https://doi.org/10.5281/zenodo.17209044)
